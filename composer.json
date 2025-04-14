@@ -1,5 +1,5 @@
 {
-    "name": "webmozart/key-value-store",
+    "name": "xmlshop/returns-key-value-store",
     "description": "A key-value store API with implementations for different backends.",
     "license": "MIT",
     "authors": [
@@ -9,19 +9,19 @@
         }
     ],
     "require": {
-        "php": "^5.3.3|^7.0",
-        "webmozart/assert": "^1.0"
+        "php": "^8.3",
+        "webmozart/assert": "*"
     },
     "require-dev": {
-        "webmozart/json": "^1.1.1",
-        "symfony/filesystem": "^2.5",
-        "predis/predis": "^1.0",
-        "basho/riak": "^1.4",
-        "doctrine/cache": "^1.4",
-        "phpunit/phpunit": "^4.6",
-        "doctrine/dbal" : "^2.4",
-        "sebastian/version": "^1.0.1",
-        "mongodb/mongodb": "^1.0"
+        "webmozart/json": "*",
+        "symfony/filesystem": "*",
+        "predis/predis": "*",
+        "basho/riak": "*",
+        "doctrine/cache": "*",
+        "phpunit/phpunit": "*",
+        "doctrine/dbal" : "*",
+        "sebastian/version": "*",
+        "mongodb/mongodb": "*"
     },
     "suggest": {
         "webmozart/json": "to enable the JsonFileStore",
