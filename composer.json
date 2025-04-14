@@ -41,9 +41,6 @@
             "Webmozart\\KeyValueStore\\Tests\\": "tests/"
         }
     },
-    "extra": {
-        "branch-alias": {
-            "dev-master": "2.0-dev"
-        }
-    }
+    "minimum-stability": "stable",
+    "prefer-stable": true
 }
