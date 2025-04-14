@@ -46,6 +46,6 @@
             "dev-master": "upgrade_to_php83"
         }
     },
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "prefer-stable": true
 }
