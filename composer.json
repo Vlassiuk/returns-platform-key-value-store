@@ -41,6 +41,11 @@
             "Webmozart\\KeyValueStore\\Tests\\": "tests/"
         }
     },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "upgrade_to_php83"
+        }
+    },
     "minimum-stability": "stable",
     "prefer-stable": true
 }
