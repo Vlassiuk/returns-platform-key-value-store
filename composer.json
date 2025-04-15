@@ -1,5 +1,5 @@
 {
-    "name": "vlassiuk/returns-key-value-store",
+    "name": "vlassiuk/returns-platform-key-value-store",
     "description": "A key-value store API with implementations for different backends.",
     "license": "MIT",
     "authors": [
